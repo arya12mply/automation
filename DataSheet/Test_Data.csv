@@ -1,0 +1,27 @@
+Field_Name,Field_Data_iteration1
+signup_group_number,"123456, 1234567890,123456789"
+group_number_valid_msg,Please enter a valid 9 digit group number
+group_number_blank_valid_msg,Group Number is required
+signup_fname,"vivek123,Karnik"
+signup_fname_valid_msg,Please enter a valid first name
+signup_lname,"viswam123,Dasika"
+signup_lname_valid_msg,"Do not include suffiexs, i.e Jr, Sr, etc."
+signup_ssn_valid_msg,
+fname_blank_valid_msg,First name is required
+lname_blank_valid_msg,Last name is required
+signup_dob,22-12-1992
+dob_blank_valid_msg,Date is required
+ssn_blank_valid_msg,SSN/ITIN is required
+login_page_title,Log in
+signup_page_title,New User Registration
+signup_snackbar_err_msg,User Verified Successfully.
+signup_email,karnik1234567@gmail.com
+signup_phone_number,8281621802
+signup_password,Password@123
+signup_otp1,1
+signup_otp2,2
+signup_otp3,3
+signup_otp4,4
+otp_success_msg,Otp verified successfully!
+t&c_title,Terms And Conditions
+signup1_ssn,"1234567890,213456789"

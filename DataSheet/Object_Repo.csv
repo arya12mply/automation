@@ -1,0 +1,39 @@
+Field_name,Field_locator_name,Field_locator_value
+signup_group_number,xpath,//input[@name='groupnumber']
+signup_proceed,xpath,//button[@type='submit']
+group_number_valid_msg,xpath,"//*[@id=""root""]/main/div[2]/div[2]/div[2]/form/div/div[1]/div[2]/h6"
+signup_fname,xpath,//input[@name='firstname']
+signup_lname,xpath,//input[@name='lastname']
+signup_dob,xpath,//input[@name='date']
+signup1_ssn,xpath,//input[@name='ssn']
+signup_fname_valid_msg,xpath,"//*[@id=""root""]/main/div[2]/div[2]/div[2]/form/div/div[2]/div[2]/h6"
+signup_lname_valid_msg,xpath,"//*[@id=""root""]/main/div[2]/div[2]/div[2]/form/div/div[3]/div[2]/h6"
+signup_dob_valid_msg,xpath,"//*[@id=""root""]/main/div[2]/div[2]/div[2]/form/div/div[4]/div[2]/h6"
+signup_ssn_valid_msg,xpath,"//*[@id=""root""]/main/div[2]/div[2]/div[2]/form/div/div[5]/div[2]/h6"
+logo,xpath,//img[@src='https://member-portal-resources.s3.amazonaws.com/affiliate1/bcbsLogo.png']
+signup_page_login,xpath,"//*[@id=""root""]/main/div[2]/div[1]/a"
+find_groupid,xpath,"//*[@id=""root""]/main/div[2]/div[2]/div[2]/form/div/div[1]/div[2]/p"
+find_ssn,xpath,"//*[@id=""root""]/main/div[2]/div[2]/div[2]/form/div/div[5]/div[2]/p"
+groupid_tooltip,xpath,"//*[@id=""mui-13""]/div/img"
+ssn_tooltip,xpath,"//*[@id=""mui-18""]/div/img"
+login_page_title,xpath,"//*[@id=""root""]/main/div[2]/div[2]/h4"
+signup_page_title,xpath,"//*[@id=""root""]/main/div[2]/div[2]/h4"
+login_page_signup,xpath,"//*[@id=""root""]/main/div[2]/div[1]/a"
+signup_snackbar_msg,xpath,"//*[@id=""notistack-snackbar""]"
+signup_email,xpath,//input[@name='email']
+signup_phone_number,xpath,//input[@name='phonenumber']
+signup_password,xpath,//input[@name='password']
+signup_confirm_password,xpath,//input[@name='confirmpassword']
+signup_t&c_checkbox,xpath,//input[@type='checkbox']
+signup_create,xpath,"//button[@type=""submit""]"
+signup_otp1,xpath,"//input[1][@name=""otp""]"
+signup_otp2,xpath,"//input[2][@name=""otp""]"
+signup_otp3,xpath,"//input[3][@name=""otp""]"
+signup_otp4,xpath,"//input[4][@name=""otp""]"
+otp_verify,xpath,"//*[contains(text(),""Verify"")]"
+otp_success_msg,xpath,"//*[contains(text(),""Otp verified successfully!"")]"
+signup_ediit_phone_number,xpath,//*[local-name()='svg' and @data-testid='EditIcon']/*[local-name()='path']
+signup_resend_otp,xpath,"//*[contains(text(),""Resend OTP"")]"
+view_t&c,xpath,"//*[contains(text(),'View T&C')]"
+t&c_title,xpath,//h2[@id='scroll-dialog-title']
+t&c_ok,xpath,"//button[@type='submit' and @tabindex=""0""]"
